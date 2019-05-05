@@ -1,15 +1,4 @@
-Plants vs Zombies: The Puzzle!
-SYSC 3110 - Project Iteration 4
-Version: 1.0
-
-Author(s): 
-- Aly Khan Barolia: (Tests: Updated test classes) (UML:contributed in design)(Contributed to functionality, fixes and MVC)
-
-- Ahmed Khattab: (Tests: Updated test classes) (UML:contributed in design)(Contributed to functionality, fixes, and MVC)
-
-- Hun Ho: (Tests: Updated test classes) (UML:contributed in design)(Contributed to functionality, fixes and MVC)
-
-- Rohan Katkar: (Tests: Updated test classes) (UML:contributed in design)(Contributed to functionality, fixes and MVC)
+Plants vs Zombies:
 
 Regarding group work distribution, in order to keep the workload distributed evenly, each member was assigned a section of the tests (2-3 test classes each), UML, new milestone implementation of save/load and implementing game builder. The fixes that were made from the previous milestone had to do with how the game works.
 
@@ -17,12 +6,11 @@ Introduction:
 The goal of this milestone is to create the implementations of the save/load onto the game as well as add a game builder to the game. The team was able to complete the pre-mentioned requirements.
 
 Change Log: 
-Milestone 4: Implemented the plantsvszombies project using the MVC design pattern (GUI) and implemented new plants and zombie classes aswell as an save/load. This also included creating a test package which retains all the tests for our model side. Moreover we added a higher experience level by adding pictures instead of letters to represent zombies and plants.
+Implemented the plantsvszombies project using the MVC design pattern (GUI) and implemented new plants and zombie classes aswell as an save/load. This also included creating a test package which retains all the tests for our model side. Moreover we added a higher experience level by adding pictures instead of letters to represent zombies and plants.
 
 Design Decisions/Reflections: Certain design decisions were made and these are mentioned in the class descriptions. A note for users is that there may be some levels that we made challenging (Level: Hard) in order to give the users a fun experience.
 
-Next Steps:
-Submit our final project on culearn!
+
 
 Included Files:
 
